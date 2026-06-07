@@ -2,9 +2,11 @@
 
 This is a modern, interactive 3D learning platform built to visualize complex models in an intuitive web environment. 
 
+You can view this website on : https://3-d-learn.vercel.app/dashboard
+
 ## 🚀 Tech Stack
 
-- **Framework:** [Next.js 14](https://nextjs.org/) (App Router)
+- **Framework:** [Next.js 16](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **3D Engine:** [Three.js](https://threejs.org/) via [`@react-three/fiber`](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - **3D Utilities:** [`@react-three/drei`](https://github.com/pmndrs/drei) (for loaders, controls, and helpers)
